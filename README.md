@@ -95,6 +95,7 @@ Source: RIT "Climate Change: Science, Technology, and Policy" lecture slides
 ![Niche](https://i.imgur.com/e6pwXlI.png)
 - Species have a temperature range in which they can survive
 - Plants also have niches (Sunlight, Temperature, Water, Nutrients, CO2, Soil, etc)
+-
 
 Source: RIT "Climate Change: Science, Technology, and Policy" lecture slides
 
